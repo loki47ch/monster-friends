@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Monster-Friends/static/css/main.893e9b0a.chunk.css",
+    "main.js": "/Monster-Friends/static/js/main.3540f8b8.chunk.js",
+    "main.js.map": "/Monster-Friends/static/js/main.3540f8b8.chunk.js.map",
+    "runtime-main.js": "/Monster-Friends/static/js/runtime-main.cfc0c8ca.js",
+    "runtime-main.js.map": "/Monster-Friends/static/js/runtime-main.cfc0c8ca.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/Monster-Friends/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.4fb40e9c.chunk.js": "/Monster-Friends/static/js/2.4fb40e9c.chunk.js",
+    "static/js/2.4fb40e9c.chunk.js.map": "/Monster-Friends/static/js/2.4fb40e9c.chunk.js.map",
+    "index.html": "/Monster-Friends/index.html",
+    "precache-manifest.d1eb81c8e5e0eb724f4ac856964253a6.js": "/Monster-Friends/precache-manifest.d1eb81c8e5e0eb724f4ac856964253a6.js",
+    "service-worker.js": "/Monster-Friends/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/Monster-Friends/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.893e9b0a.chunk.css.map": "/Monster-Friends/static/css/main.893e9b0a.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfc0c8ca.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.4fb40e9c.chunk.js",
+    "static/css/main.893e9b0a.chunk.css",
+    "static/js/main.3540f8b8.chunk.js"
+  ]
+}
