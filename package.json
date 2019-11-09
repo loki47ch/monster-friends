@@ -1,6 +1,6 @@
 {
-  "name": "Monster-Friends",
-  "homepage": "https://loki47ch.github.io/Monster-Friends",
+  "name": "monster-friends",
+  "homepage": "https://loki47ch.github.io/monster-friends",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
