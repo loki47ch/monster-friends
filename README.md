@@ -10,5 +10,5 @@ It fetches data from a JSON placeholder API and uses it to render some of the co
 
 ## Built With
 
-[React](https://github.com/facebook/react) - front-end javascript library
-[TACHYONS](https://github.com/tachyons-css/tachyons) - css library
+* [React](https://github.com/facebook/react) - front-end javascript library
+* [TACHYONS](https://github.com/tachyons-css/tachyons) - css library
